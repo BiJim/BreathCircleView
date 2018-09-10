@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BreathCircleView">
+        <attr name="bcv_stroke_width" format="dimension"/>
+        <attr name="bcv_sweep_range" format="float"/>
+        <attr name="bcv_anim_show_duration" format="integer"/>
+        <attr name="bcv_anim_breath_duration" format="integer"/>
+        <attr name="bcv_anim_handle_duration" format="integer"/>
+    </declare-styleable>
+</resources>

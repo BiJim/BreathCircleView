@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#4a90e2</color>
+    <color name="white">#fafafa</color>
+    <color name="blue_light">#50cee4</color>
+    <color name="blue_dark">#0d35d2</color>
+    <color name="transparent">#00ffffff</color>
+
+    <color name="blue_purple">#4a1bb7</color>
+    <color name="purple_dark">#9404c9</color>
+
+    <color name="ring_one">#a035ff</color>
+    <color name="ring_two">#2ea4ff</color>
+
+    <color name="wave_foreground">#6ea14fe9</color>
+    <color name="wave_background">#7b2ea4ff</color>
+    <color name="wave_middle">#434d52df</color>
+
+    <color name="test_color">#ae8935ff</color>
+    <color name="test_color1">#ae965aea</color>
+
+    <color name="text_color">#7fffffff</color>
+    <color name="text_color1">#00f683</color>
+    <color name="text_color2">#ff1a36</color>
+    <color name="text_color3">#cb000000</color>
+
+    <color name="bg_gray">#3ba39e9e</color>
+    <color name="bg_gray1">#38ffffff</color>
+    <color name="bg_gray2">#69ffffff</color>
+    <color name="blue_text">#3a83ff</color>
+    <color name="blue_circle_bg">#e8316fec</color>
+</resources>

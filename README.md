@@ -1,5 +1,5 @@
-###Nice to meet you
-##项目说明
+### Nice to meet you
+## 项目说明
 * 这是一个基于Android Wear创建的项目结构
 * 包含一个用于圆形表盘的自定义view
 * 包含一个DialogFragment在wear上的兼容抽象类

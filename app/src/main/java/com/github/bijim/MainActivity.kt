@@ -1,10 +1,10 @@
 package com.github.bijim
 
 import android.os.Bundle
-import android.support.wearable.activity.WearableActivity
+import android.support.v4.app.FragmentActivity
 import com.github.bijim.breathcircleview.R
 
-class MainActivity : WearableActivity() {
+class MainActivity : FragmentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
